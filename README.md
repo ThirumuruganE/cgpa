@@ -1,7 +1,7 @@
 ![cgpa](https://user-images.githubusercontent.com/26036836/72218200-522b7880-355e-11ea-9ca2-7f8fb41441ef.gif)
 
 CGPA calculator, for Anna University medical physics department
-python3
+1.python3
 # Dependencies to install before running program
 1. xlrd 1.2.0-- pip install xlrd -- link -- https://pypi.org/project/xlrd/
 2. numpy 1.18.1-- pip install numpy -- link -- https://pypi.org/project/numpy/
