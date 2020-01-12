@@ -2,10 +2,10 @@
 CGPA calculator, for Anna University medical physics department
 
 # Dependencies to install before running program
-xlrd -- pip install xlrd
-numpy -- pip install numpy
-Cython -- pip install Cython
-pandas -- pip install pandas
-prettytable -- pip install prettytable
+1. xlrd -- pip install xlrd
+2. numpy -- pip install numpy
+3. Cython -- pip install Cython
+4. pandas -- pip install pandas
+5. prettytable -- pip install prettytable
 
 
