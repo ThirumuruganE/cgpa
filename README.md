@@ -1,4 +1,5 @@
-# cgpa
+![cgpa](https://user-images.githubusercontent.com/26036836/72218200-522b7880-355e-11ea-9ca2-7f8fb41441ef.gif)
+
 CGPA calculator, for Anna University medical physics department
 python3
 # Dependencies to install before running program
