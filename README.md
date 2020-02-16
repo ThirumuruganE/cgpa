@@ -9,7 +9,7 @@ CGPA calculator, for Anna University medical physics department\
 3. Cython 0.29.14 -- pip install Cython -- link -- https://pypi.org/project/Cython/
 4. pandas -- pip install pandas -- link -- https://pypi.org/project/pandas/
 5. prettytable -- pip install prettytable -- link -- https://pypi.org/project/PrettyTable/
-or use pip install -r requirements.txt 
+6. or use pip install -r requirements.txt 
 ## In mobile use pydroid3
 1. Install using pip found in settings tab 
 2. In setting change tkinter DPI to 240
